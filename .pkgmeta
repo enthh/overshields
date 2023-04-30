@@ -1,0 +1,7 @@
+package-as: Overshields
+
+ignore:
+  - .luacheckrc
+  - .github/*
+  - README.md
+  - screenshot.png

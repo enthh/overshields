@@ -1,0 +1,8 @@
+## Interface: 100007
+## Title: Overshields
+## Notes: Simple addon to improve the default UI's damage prevention bars (like those shown for Power Word: Shield) so they always tell how much prevention is left, even when at full HP.
+## Author: Enth-Emerald Dream
+## Version: @project-version@
+## X-Curse-Project-ID: 856425
+
+Overshields.lua
