@@ -12,12 +12,12 @@ Works with blizzard's default Player, Target, Focus, Party, and Raid frames, as 
 
 ### Addon Manager
 
-Paste `https://github.com/casperstorm/overshields` into a addon manager which supports installs from GitHub.
+Install from [Curseforge](https://www.curseforge.com/wow/addons/overshields).
 
 ### Manually
 
-Download the [latest release](https://github.com/casperstorm/overshields/releases/latest) and extract the `.zip` to your AddOns folder.
+Download the [latest release](https://github.com/enthh/overshields/releases/latest) and extract the `.zip` to your AddOns folder.
 
 ## License
 
-Overshields is released under the [MIT License.](https://github.com/casperstorm/overshields/blob/master/LICENSE)
+Overshields is released under the [MIT License.](https://github.com/enthh/overshields/blob/master/LICENSE)
