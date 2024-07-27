@@ -3,5 +3,7 @@ package-as: Overshields
 ignore:
   - .luacheckrc
   - .github/*
+  - .git/*
   - README.md
   - screenshot.png
+  - target.png
